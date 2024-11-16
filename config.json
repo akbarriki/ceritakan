@@ -1,0 +1,9 @@
+{
+    "loading_gif": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp6bGl0NHBqZjZ6dm1lZTg1a2JhZDlzaGptdHphdTBkNngwOHQ5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gibvnAbdWQEiGtPlk3/giphy.webp",
+    "num_of_extracted_tweets": 5,
+    "num_of_watched_users": 5,
+    "page_title": "Ceritakan",
+    "favicon": "ceritakan_favicon.png",
+    "database": "saved_users.json",
+    "model_dir": "pipe_indobert"
+}
